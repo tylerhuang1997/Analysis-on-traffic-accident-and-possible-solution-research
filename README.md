@@ -6,3 +6,5 @@
 整理圖表後，分別以==縣市事故發生量、縣市測速點、各月事故發生量==為需求轉換資料，並匯出三份圖表分析，比較前兩張圖表中的相關性，利用最後一張圖表作為預測結論。
 
 最後簡單研究完成。
+
+[nbviewer](http://nbviewer.jupyter.org/github/tylerhuang1997/Analysis-on-traffic-accident-and-possible-solution-research/blob/master/Traffic_accident_analysis.ipynb)
